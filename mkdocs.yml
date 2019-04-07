@@ -1,5 +1,13 @@
 site_name: Peruzal - Unity Associate Game Deveveloper Guide
-theme: material
+
+
+theme:
+  name: material
+  logo: 'images/logo.png'
+  favicon: 'images/favicon.ico'
+  palette:
+    primary: 'orange'
+    accent: 'orange'
 
 nav:
   - Home: index.md
