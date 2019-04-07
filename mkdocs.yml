@@ -3,3 +3,18 @@ theme: material
 
 nav:
   - Home: index.md
+  - Welcome to Unity: introducing-unity.md
+  - Unity User Interface: unity-user-interface.md
+  - Using Gameobjects and Assets: using-gameobjects-and-assets.md
+  - Materials: materials.md
+  - Physics: physics.md
+  - Lightining in Games: lighting
+  - Animating GameObjects in Unity Editor: animating-in-unity-editor.md
+  - Bringing Animations into the Game: importing-animations.md
+  - Scripting in Game Development: scripting.md
+  - Implementing Navigation and Pathfinding: navigation.md
+  - Creating a Particle System: particle-system.md
+  - Working with Audio:  audio.md
+  - Designing User Interfaces: ui.md
+  - Building and Deploying the Game: building-and-deploying.md
+  - Preparing for Mobile Development: mobile.md
