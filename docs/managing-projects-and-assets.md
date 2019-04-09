@@ -1,1 +1,0 @@
-# Managing Projects and Assets

@@ -1,1 +1,0 @@
-# Baking Lighting in Game Production

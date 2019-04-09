@@ -9,6 +9,13 @@ theme:
     primary: 'orange'
     accent: 'orange'
 
+markdown_extensions:
+  - admonition
+  - codehilite: 
+      linenums: true
+
+copyright: 'Copyright &copy; 2019 - <a href="https://www.peruzal.com">Peruzal</a>'
+
 nav:
   - Home: index.md
   - Welcome to Unity: introducing-unity.md
